@@ -1,0 +1,33 @@
+@media screen and (max-width: 1140px) and (min-width: 100px) {
+  body {
+    background-image: url("bg-intro-desktop.png");
+    background-color: rgb(210, 81, 103);
+    display: flex;
+    place-items: center;
+    height: 100vh;
+    padding: 50px;
+  }
+}
+.flex {
+  color: white;
+}
+.head {
+  background-color: rgb(44, 44, 167);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+.table {
+  background-color: whitesmoke;
+  padding: 50px;
+  width: 70%;
+  height: 50vh;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: rgb(8, 165, 8);
+  padding: 10px;
+  color: white;
+  width: 90%;
+}
